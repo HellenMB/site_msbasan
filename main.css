@@ -140,7 +140,7 @@ form button:hover{
 }
 
 input:focus, textarea:focus{
-    outline-color: #182c61;
+    outline-color: rgb(250, 207, 68);
 }
 
 footer{
